@@ -1,10 +1,12 @@
-# Hello There!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Peter+%F0%9F%91%8B;Software+developer;I+build+tools+that+make+developers+faster;Clean%2C+maintainable+code+advocate" alt="Typing intro: Hi, I'm Peter — software developer who builds tools that make developers faster" />
+</p>
 
-I'm a software developer.
-I enjoy building web applications and exploring new technologies.
-I am passionate about learning and sharing knowledge with the developer community.
-I am always looking for opportunities to work on exciting and challenging projects.
-I believe in continuous improvement and strive to enhance my skills every day.
+I'm a software developer who builds web applications and developer tools, and I like sharing what I learn along the way.
+
+- 🔭 Currently working on a [Firefox extension for copying web tables](https://github.com/peterelmwood/copy-table-extension) as HTML, Markdown, plain text, or CSV
+- 🤖 Building [Claude agent skills](https://github.com/peterelmwood/agent-skills) for design patterns, React anti-patterns, and GitHub issue authoring
+- 💬 Ask me about Python/Django, TypeScript, C#/.NET, PowerShell automation, and Terraform
 
 ## Some Highlights
 
@@ -14,24 +16,21 @@ course of my development journey, but I still have so many areas in which to gro
 
 ## Personal Areas of Focus
 
-- I like <span style="color:#AA4244FF">building tools that address real-world problems</span>, especially those that improve developer productivity.
-- I am fully engaged with and firmly committed to <span style="color:#7030A0FF">focusing on writing clean, maintainable code</span> and continuously improving my development practices.
-- I aim to stay updated with the latest <span style="color:#0070C0FF">technologies and trends in the software development industry</span>.
-- I actively seek <span style="color:#00B050FF">feedback and learn from my peers</span> to continuously enhance my skills.
-- I deeply desire to <span style="color:#FFC000AA">contribute to the developer community by sharing my knowledge and what I've learned from my experiences</span>.
-- I strive to <span style="color:#1125FFFF">mentor and support other developers in their own growth and learning journeys</span>.
+- 🛠️ **Building tools that solve real-world problems**, especially ones that improve developer productivity
+- 🧹 **Writing clean, maintainable code** and continuously improving my development practices
+- 📡 **Staying current** with the technologies and trends in software development
+- 🤝 **Seeking feedback** and learning from my peers
+- 📚 **Sharing knowledge** with the developer community from my own experiences
+- 🌱 **Mentoring** other developers in their own growth and learning journeys
 
-<!--
-**peterelmwood/peterelmwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://skillicons.dev/icons?i=py,django,ts,js,cs,dotnet,powershell,terraform,gcp,githubactions" alt="Python, Django, TypeScript, JavaScript, C#, .NET, PowerShell, Terraform, Google Cloud, GitHub Actions" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=peterelmwood&hide_border=true&theme=transparent" alt="Peter's GitHub contribution streak" />
+</p>
