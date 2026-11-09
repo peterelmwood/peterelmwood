@@ -7,6 +7,7 @@ I'm a software developer who builds web applications and developer tools, and I 
 - 🔭 Currently working on a [Firefox extension for copying web tables](https://github.com/peterelmwood/copy-table-extension) as HTML, Markdown, plain text, or CSV
 - 🤖 Building [Claude agent skills](https://github.com/peterelmwood/agent-skills) for design patterns, React anti-patterns, and GitHub issue authoring
 - 💬 Ask me about Python/Django, TypeScript, C#/.NET, PowerShell automation, and Terraform
+- 🌐 Find me at [peterelmwood.com](https://www.peterelmwood.com/) · 📄 [Resume](https://www.peterelmwood.com/resume/)
 
 ## Some Highlights
 
